@@ -1,0 +1,12 @@
+int main()
+{
+    char int long asdfasdf
+    3.14 123 3.1415926535 sdfsadf123
+    /*
+    sdjfk
+    */
+    a = base + 5++;
+    b = c /= d;
+    i <= j
+    if(i >= 20) {base <> ans;}
+}
